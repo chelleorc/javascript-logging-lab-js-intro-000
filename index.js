@@ -1,1 +1,1 @@
-console.console.error("HALP!")
+console.error("HALP");
